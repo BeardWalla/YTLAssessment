@@ -1,0 +1,3694 @@
+[{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc442a"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "97901391",
+  "bic": "CKEKGPOEXXX",
+  "currencyCode": "MGA",
+  "transactionDescription": "Invoice transaction at Haley - Pfannerstill using card ending with ***5248 for DKK 27.38 in account ***56944541",
+  "transactionType": "invoice",
+  "amount": "198.11",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc442b"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "87983065",
+  "bic": "WXVCSS19",
+  "currencyCode": "CHF",
+  "transactionDescription": "deposit transaction at Osinski, Boyle and Medhurst using card ending with ***4694 for MGA 197.55 in account ***62316784",
+  "transactionType": "deposit",
+  "amount": "34.17",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc442c"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "69672247",
+  "bic": "CBLMTW3AXXX",
+  "currencyCode": "GBP",
+  "transactionDescription": "deposit transaction at Leffler Inc using card ending with ***0692 for VES 265.54 in account ***24505561",
+  "transactionType": "invoice",
+  "amount": "589.31",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc442d"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "62154964",
+  "bic": "OBTNATN5XXX",
+  "currencyCode": "SSP",
+  "transactionDescription": "invoice transaction at McGlynn Group using card ending with ***9514 for BWP 892.14 in account ***83351693",
+  "transactionType": "withdrawal",
+  "amount": "571.01",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc442e"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "67186667",
+  "bic": "JTHJTORFXXX",
+  "currencyCode": "YER",
+  "transactionDescription": "deposit transaction at Kuphal - Mueller using card ending with ***0179 for AZN 449.91 in account ***35943279",
+  "transactionType": "invoice",
+  "amount": "573.68",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc442f"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "07613550",
+  "bic": "SJMXRWMG",
+  "currencyCode": "ALL",
+  "transactionDescription": "withdrawal transaction at Sipes, Pollich and Lubowitz using card ending with ***9014 for BWP 742.77 in account ***91640275",
+  "transactionType": "invoice",
+  "amount": "208.57",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4430"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "07511030",
+  "bic": "ANGCTFAJJYU",
+  "currencyCode": "FJD",
+  "transactionDescription": "deposit transaction at Goyette Inc using card ending with ***5594 for MOP 367.84 in account ***08822786",
+  "transactionType": "withdrawal",
+  "amount": "426.91",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4431"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "77454130",
+  "bic": "DYBXBMS8XXX",
+  "currencyCode": "RSD",
+  "transactionDescription": "deposit transaction at O'Keefe - Anderson using card ending with ***1029 for HUF 568.10 in account ***22021711",
+  "transactionType": "invoice",
+  "amount": "581.36",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4432"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "90872242",
+  "bic": "ZVXERS0N",
+  "currencyCode": "BAM",
+  "transactionDescription": "deposit transaction at Schulist - Moen using card ending with ***7543 for MDL 988.62 in account ***15135527",
+  "transactionType": "invoice",
+  "amount": "669.23",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4433"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "21073260",
+  "bic": "CTEBGS93XXX",
+  "currencyCode": "BYN",
+  "transactionDescription": "deposit transaction at Nikolaus, Mayer and Leffler using card ending with ***8962 for GNF 65.96 in account ***77577919",
+  "transactionType": "payment",
+  "amount": "13.95",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4434"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "27679399",
+  "bic": "FXAQUMEA",
+  "currencyCode": "KZT",
+  "transactionDescription": "deposit transaction at Bailey - Lowe using card ending with ***4989 for IDR 394.87 in account ***69013101",
+  "transactionType": "payment",
+  "amount": "505.66",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4435"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "04998304",
+  "bic": "CINDTMTJAXC",
+  "currencyCode": "MVR",
+  "transactionDescription": "invoice transaction at Flatley, Sporer and Bailey using card ending with ***9944 for MMK 346.29 in account ***75214953",
+  "transactionType": "deposit",
+  "amount": "952.84",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4436"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "24288328",
+  "bic": "POEESELM",
+  "currencyCode": "AUD",
+  "transactionDescription": "deposit transaction at Johnston Inc using card ending with ***6395 for AED 867.52 in account ***97329061",
+  "transactionType": "invoice",
+  "amount": "209.49",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4437"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "46326567",
+  "bic": "WATUPFWVB9O",
+  "currencyCode": "KRW",
+  "transactionDescription": "withdrawal transaction at Homenick - Fisher using card ending with ***4045 for GMD 130.19 in account ***65419466",
+  "transactionType": "deposit",
+  "amount": "273.90",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4438"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "03270899",
+  "bic": "RNHAEEAU",
+  "currencyCode": "MKD",
+  "transactionDescription": "payment transaction at Schmitt, Denesik and Marquardt using card ending with ***0705 for KHR 770.89 in account ***05048360",
+  "transactionType": "invoice",
+  "amount": "377.92",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4439"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "02901288",
+  "bic": "BRROCM5I",
+  "currencyCode": "KRW",
+  "transactionDescription": "invoice transaction at Krajcik - Fahey using card ending with ***8583 for BWP 916.31 in account ***59422141",
+  "transactionType": "withdrawal",
+  "amount": "499.58",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc443a"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "70252680",
+  "bic": "EQPGGF3WXXX",
+  "currencyCode": "SRD",
+  "transactionDescription": "withdrawal transaction at Cremin Inc using card ending with ***6651 for PAB 510.36 in account ***19712058",
+  "transactionType": "invoice",
+  "amount": "715.33",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc443b"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "33380835",
+  "bic": "WQYFSRMU31N",
+  "currencyCode": "RWF",
+  "transactionDescription": "payment transaction at Monahan, Jaskolski and Schmidt using card ending with ***7057 for ZAR 731.73 in account ***32322663",
+  "transactionType": "invoice",
+  "amount": "796.59",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc443c"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "46709439",
+  "bic": "JXOOILZYXXX",
+  "currencyCode": "CUP",
+  "transactionDescription": "invoice transaction at Lockman, Okuneva and Leffler using card ending with ***8143 for UGX 26.21 in account ***51579033",
+  "transactionType": "payment",
+  "amount": "862.35",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc443d"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "64641845",
+  "bic": "HZMFET88",
+  "currencyCode": "ETB",
+  "transactionDescription": "payment transaction at Waelchi, Koch and Dooley using card ending with ***0854 for CVE 724.98 in account ***73240250",
+  "transactionType": "invoice",
+  "amount": "165.69",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc443e"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "57759529",
+  "bic": "UGAOPK4G",
+  "currencyCode": "ILS",
+  "transactionDescription": "invoice transaction at Ernser LLC using card ending with ***2604 for KES 361.27 in account ***18608364",
+  "transactionType": "invoice",
+  "amount": "735.73",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc443f"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "98248866",
+  "bic": "DTCPAIO2XXX",
+  "currencyCode": "KPW",
+  "transactionDescription": "payment transaction at Hessel Inc using card ending with ***9793 for INR 746.94 in account ***84945464",
+  "transactionType": "deposit",
+  "amount": "803.17",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4440"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "47990670",
+  "bic": "SQRAMTJ3AYR",
+  "currencyCode": "UZS",
+  "transactionDescription": "invoice transaction at Langosh, Volkman and Rau using card ending with ***1016 for CNY 837.81 in account ***66959877",
+  "transactionType": "payment",
+  "amount": "264.55",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4441"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "94526141",
+  "bic": "VWDWERNT",
+  "currencyCode": "MWK",
+  "transactionDescription": "withdrawal transaction at Wunsch Group using card ending with ***2755 for GMD 772.32 in account ***91394052",
+  "transactionType": "invoice",
+  "amount": "842.49",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4442"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "37486015",
+  "bic": "IXWXMEIOGVM",
+  "currencyCode": "LBP",
+  "transactionDescription": "withdrawal transaction at Altenwerth - Tremblay using card ending with ***5238 for LYD 838.84 in account ***95412930",
+  "transactionType": "invoice",
+  "amount": "886.50",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4443"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "58396210",
+  "bic": "FJIDCIULEYT",
+  "currencyCode": "CDF",
+  "transactionDescription": "deposit transaction at Prohaska - Cronin using card ending with ***2854 for HNL 399.15 in account ***02206147",
+  "transactionType": "payment",
+  "amount": "178.05",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4444"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "55991845",
+  "bic": "ZHXTMPM1XXX",
+  "currencyCode": "BHD",
+  "transactionDescription": "deposit transaction at Bernhard and Sons using card ending with ***8339 for MZN 167.98 in account ***99471816",
+  "transactionType": "payment",
+  "amount": "668.73",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4445"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "43093742",
+  "bic": "PMLLMU4B",
+  "currencyCode": "AFN",
+  "transactionDescription": "deposit transaction at Haley, Hammes and Ziemann using card ending with ***9124 for HKD 635.52 in account ***50724811",
+  "transactionType": "withdrawal",
+  "amount": "18.07",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4446"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "66873130",
+  "bic": "NYVLAGZO",
+  "currencyCode": "QAR",
+  "transactionDescription": "payment transaction at Kirlin, Mayert and Volkman using card ending with ***1680 for BMD 484.43 in account ***38586646",
+  "transactionType": "invoice",
+  "amount": "578.50",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4447"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "24586532",
+  "bic": "AFGTECAM",
+  "currencyCode": "SLE",
+  "transactionDescription": "withdrawal transaction at Ledner - Schowalter using card ending with ***3302 for TND 767.29 in account ***43970712",
+  "transactionType": "deposit",
+  "amount": "214.11",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4448"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "12143701",
+  "bic": "XRRUPA26O7L",
+  "currencyCode": "VND",
+  "transactionDescription": "payment transaction at Larson, Lueilwitz and Bernhard using card ending with ***3484 for KGS 617.90 in account ***91704013",
+  "transactionType": "invoice",
+  "amount": "772.84",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4449"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "42945441",
+  "bic": "SIEBNCGRXXX",
+  "currencyCode": "CVE",
+  "transactionDescription": "invoice transaction at Schulist - Rohan using card ending with ***9635 for VUV 295.48 in account ***07390497",
+  "transactionType": "withdrawal",
+  "amount": "56.14",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc444a"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "87143031",
+  "bic": "BXXJPNJGK47",
+  "currencyCode": "CUP",
+  "transactionDescription": "payment transaction at Stamm LLC using card ending with ***5263 for UYU 108.06 in account ***87617971",
+  "transactionType": "invoice",
+  "amount": "572.41",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc444b"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "09701555",
+  "bic": "KDGOJO7J",
+  "currencyCode": "SEK",
+  "transactionDescription": "invoice transaction at Schultz, Dare and Gibson using card ending with ***8909 for TTD 335.67 in account ***57467277",
+  "transactionType": "invoice",
+  "amount": "977.72",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc444c"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "40092827",
+  "bic": "NNSASDRD",
+  "currencyCode": "JPY",
+  "transactionDescription": "invoice transaction at Rolfson LLC using card ending with ***6542 for QAR 61.84 in account ***07738725",
+  "transactionType": "deposit",
+  "amount": "94.94",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc444d"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "33981512",
+  "bic": "DDHQMUYBGGF",
+  "currencyCode": "BAM",
+  "transactionDescription": "invoice transaction at Kautzer - Miller using card ending with ***3362 for DJF 313.32 in account ***49346785",
+  "transactionType": "withdrawal",
+  "amount": "450.14",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc444e"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "44169114",
+  "bic": "XEPWRWZIXXX",
+  "currencyCode": "LBP",
+  "transactionDescription": "withdrawal transaction at Kub, Bernhard and Ortiz using card ending with ***5899 for LYD 87.66 in account ***11872975",
+  "transactionType": "payment",
+  "amount": "947.22",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc444f"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "86781069",
+  "bic": "CBILVCU0",
+  "currencyCode": "AFN",
+  "transactionDescription": "invoice transaction at Stoltenberg and Sons using card ending with ***4528 for STN 614.59 in account ***45189783",
+  "transactionType": "withdrawal",
+  "amount": "244.69",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4450"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "64660335",
+  "bic": "EXZYFO73",
+  "currencyCode": "MOP",
+  "transactionDescription": "deposit transaction at Ankunding LLC using card ending with ***7150 for SSP 14.00 in account ***52796072",
+  "transactionType": "withdrawal",
+  "amount": "145.02",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4451"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "61133194",
+  "bic": "GWKNWS3B",
+  "currencyCode": "BYN",
+  "transactionDescription": "invoice transaction at Nicolas - Leffler using card ending with ***3282 for NIO 456.98 in account ***23774036",
+  "transactionType": "withdrawal",
+  "amount": "31.19",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4452"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "02285205",
+  "bic": "MBWITNT6",
+  "currencyCode": "WST",
+  "transactionDescription": "payment transaction at Treutel LLC using card ending with ***4594 for FJD 449.83 in account ***69632002",
+  "transactionType": "withdrawal",
+  "amount": "432.55",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4453"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "23577193",
+  "bic": "DOSEPFFO",
+  "currencyCode": "SDG",
+  "transactionDescription": "withdrawal transaction at Pouros and Sons using card ending with ***2545 for ILS 163.17 in account ***36026173",
+  "transactionType": "payment",
+  "amount": "502.66",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4454"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "11518518",
+  "bic": "EZMYIRCH",
+  "currencyCode": "PYG",
+  "transactionDescription": "deposit transaction at Heaney - Shields using card ending with ***2885 for STN 673.25 in account ***44601755",
+  "transactionType": "withdrawal",
+  "amount": "190.54",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4455"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "86867104",
+  "bic": "ZZYPNE05NJK",
+  "currencyCode": "MOP",
+  "transactionDescription": "withdrawal transaction at Keebler, O'Conner and Miller using card ending with ***0837 for LAK 579.36 in account ***49304900",
+  "transactionType": "deposit",
+  "amount": "199.49",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4456"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "47116509",
+  "bic": "QBRSDEO2360",
+  "currencyCode": "SDG",
+  "transactionDescription": "invoice transaction at Bergnaum - Schinner using card ending with ***7455 for LBP 28.49 in account ***06030204",
+  "transactionType": "invoice",
+  "amount": "382.47",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4457"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "45943776",
+  "bic": "XXRJDJ8F",
+  "currencyCode": "VES",
+  "transactionDescription": "payment transaction at Witting Group using card ending with ***0503 for TOP 995.06 in account ***90756085",
+  "transactionType": "deposit",
+  "amount": "180.47",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4458"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "63918648",
+  "bic": "JUFMKMJ8",
+  "currencyCode": "BZD",
+  "transactionDescription": "withdrawal transaction at Ritchie - Conroy using card ending with ***4704 for GYD 448.88 in account ***68758402",
+  "transactionType": "withdrawal",
+  "amount": "72.01",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4459"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "48082354",
+  "bic": "KCFRBZH0",
+  "currencyCode": "SLE",
+  "transactionDescription": "invoice transaction at Wuckert Inc using card ending with ***8317 for SGD 191.67 in account ***17326260",
+  "transactionType": "withdrawal",
+  "amount": "398.66",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc445a"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "39630514",
+  "bic": "ICKQRUEVIKA",
+  "currencyCode": "ZMW",
+  "transactionDescription": "deposit transaction at Williamson, Price and Zieme using card ending with ***9507 for BAM 736.06 in account ***42389347",
+  "transactionType": "payment",
+  "amount": "473.95",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc445b"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "24081222",
+  "bic": "ITOICZHOXXX",
+  "currencyCode": "BWP",
+  "transactionDescription": "invoice transaction at Beahan Group using card ending with ***1223 for HUF 571.54 in account ***15703809",
+  "transactionType": "payment",
+  "amount": "812.51",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc445c"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "24573552",
+  "bic": "TILRVABY",
+  "currencyCode": "SLE",
+  "transactionDescription": "deposit transaction at Kris Group using card ending with ***0747 for BZD 469.48 in account ***52609330",
+  "transactionType": "payment",
+  "amount": "693.86",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc445d"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "62467153",
+  "bic": "UDBFMZCRTLG",
+  "currencyCode": "LRD",
+  "transactionDescription": "payment transaction at Crooks - Kemmer using card ending with ***6884 for UAH 15.40 in account ***48268829",
+  "transactionType": "deposit",
+  "amount": "50.91",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc445e"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "25004482",
+  "bic": "NMKDVURIXXX",
+  "currencyCode": "CHF",
+  "transactionDescription": "deposit transaction at Kuhlman - Hermann using card ending with ***2499 for XCD 977.10 in account ***69973084",
+  "transactionType": "withdrawal",
+  "amount": "931.11",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc445f"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "89662058",
+  "bic": "SPPMPT09",
+  "currencyCode": "KWD",
+  "transactionDescription": "payment transaction at Schultz LLC using card ending with ***0517 for TND 575.47 in account ***66582529",
+  "transactionType": "invoice",
+  "amount": "312.52",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4460"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "70580238",
+  "bic": "WQMBMQEI",
+  "currencyCode": "AWG",
+  "transactionDescription": "payment transaction at Steuber - Denesik using card ending with ***2784 for MRU 316.16 in account ***16265728",
+  "transactionType": "deposit",
+  "amount": "380.96",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4461"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "48868923",
+  "bic": "PKPPMUJ2",
+  "currencyCode": "GEL",
+  "transactionDescription": "invoice transaction at White, Larkin and Lesch using card ending with ***2167 for PEN 7.31 in account ***43491568",
+  "transactionType": "invoice",
+  "amount": "604.67",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4462"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "87833910",
+  "bic": "BLNDUZLY",
+  "currencyCode": "AOA",
+  "transactionDescription": "deposit transaction at Stark Group using card ending with ***6063 for TRY 21.37 in account ***99450259",
+  "transactionType": "deposit",
+  "amount": "507.12",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4463"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "47592439",
+  "bic": "XGCPVUP4FYU",
+  "currencyCode": "SDG",
+  "transactionDescription": "withdrawal transaction at Champlin, Rolfson and Hagenes using card ending with ***0446 for KHR 639.27 in account ***62437165",
+  "transactionType": "payment",
+  "amount": "607.74",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4464"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "21971779",
+  "bic": "GUEPHRQB",
+  "currencyCode": "MGA",
+  "transactionDescription": "invoice transaction at Morar - Hand using card ending with ***7440 for BIF 425.57 in account ***19381983",
+  "transactionType": "payment",
+  "amount": "677.62",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4465"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "64201224",
+  "bic": "FIAMPSVQ",
+  "currencyCode": "STN",
+  "transactionDescription": "withdrawal transaction at Spinka - Davis using card ending with ***4787 for PEN 440.24 in account ***58235980",
+  "transactionType": "withdrawal",
+  "amount": "490.29",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4466"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "89837658",
+  "bic": "BMWWCNRU",
+  "currencyCode": "JPY",
+  "transactionDescription": "payment transaction at Heathcote and Sons using card ending with ***1068 for TOP 52.95 in account ***88639958",
+  "transactionType": "deposit",
+  "amount": "879.36",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4467"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "13897369",
+  "bic": "NVECBDED",
+  "currencyCode": "UGX",
+  "transactionDescription": "deposit transaction at Nicolas, Krajcik and Jerde using card ending with ***2989 for XCD 149.23 in account ***13140547",
+  "transactionType": "deposit",
+  "amount": "487.19",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4468"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "43219606",
+  "bic": "PEKRVUC7",
+  "currencyCode": "LSL",
+  "transactionDescription": "payment transaction at Gorczany Inc using card ending with ***8825 for AUD 309.24 in account ***10023142",
+  "transactionType": "payment",
+  "amount": "896.33",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4469"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "87724189",
+  "bic": "MJFHFJXZSH0",
+  "currencyCode": "ERN",
+  "transactionDescription": "deposit transaction at Larkin, Hoppe and Jacobi using card ending with ***2174 for COP 116.07 in account ***11867652",
+  "transactionType": "deposit",
+  "amount": "342.13",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc446a"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "86835028",
+  "bic": "LLTSEEVL",
+  "currencyCode": "ZAR",
+  "transactionDescription": "withdrawal transaction at Homenick Inc using card ending with ***1425 for BDT 0.58 in account ***35716269",
+  "transactionType": "deposit",
+  "amount": "887.50",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc446b"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "95025101",
+  "bic": "VSZBTZFCSEJ",
+  "currencyCode": "NIO",
+  "transactionDescription": "invoice transaction at Kub - Hessel using card ending with ***5872 for BIF 64.19 in account ***51326592",
+  "transactionType": "withdrawal",
+  "amount": "183.76",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc446c"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "97961366",
+  "bic": "KBDIJONC7KX",
+  "currencyCode": "LYD",
+  "transactionDescription": "payment transaction at Miller and Sons using card ending with ***7555 for QAR 395.85 in account ***97881629",
+  "transactionType": "deposit",
+  "amount": "8.12",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc446d"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "32664072",
+  "bic": "NICXHRLJ",
+  "currencyCode": "LAK",
+  "transactionDescription": "withdrawal transaction at Luettgen and Sons using card ending with ***5636 for QAR 628.20 in account ***64615035",
+  "transactionType": "payment",
+  "amount": "661.74",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc446e"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "75695467",
+  "bic": "AETALK60XXX",
+  "currencyCode": "FJD",
+  "transactionDescription": "withdrawal transaction at Brown - Runte using card ending with ***7055 for SOS 801.00 in account ***46791072",
+  "transactionType": "payment",
+  "amount": "919.24",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc446f"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "79548786",
+  "bic": "TZVDFJ2Z",
+  "currencyCode": "BBD",
+  "transactionDescription": "withdrawal transaction at Carroll Group using card ending with ***2028 for INR 685.17 in account ***94232342",
+  "transactionType": "deposit",
+  "amount": "911.02",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4470"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "77004026",
+  "bic": "SXWUIOB6XXX",
+  "currencyCode": "TND",
+  "transactionDescription": "withdrawal transaction at Hackett Inc using card ending with ***9897 for MAD 481.45 in account ***93885433",
+  "transactionType": "payment",
+  "amount": "576.46",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4471"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "26795773",
+  "bic": "CZEFLSRF",
+  "currencyCode": "UYU",
+  "transactionDescription": "invoice transaction at Watsica LLC using card ending with ***1389 for XPF 810.30 in account ***99050209",
+  "transactionType": "withdrawal",
+  "amount": "367.60",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4472"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "42138964",
+  "bic": "HPNLNCX4RFU",
+  "currencyCode": "STN",
+  "transactionDescription": "invoice transaction at Toy Group using card ending with ***3943 for BIF 908.39 in account ***20952496",
+  "transactionType": "invoice",
+  "amount": "542.90",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4473"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "61783632",
+  "bic": "IZEMJM43",
+  "currencyCode": "ZAR",
+  "transactionDescription": "deposit transaction at Donnelly LLC using card ending with ***6754 for TZS 860.25 in account ***24640256",
+  "transactionType": "invoice",
+  "amount": "125.06",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4474"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "70322210",
+  "bic": "AZMCAT9A",
+  "currencyCode": "HUF",
+  "transactionDescription": "payment transaction at Grimes - Gottlieb using card ending with ***2354 for BTN 269.65 in account ***74456033",
+  "transactionType": "withdrawal",
+  "amount": "289.14",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4475"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "19286981",
+  "bic": "YJYNFJE9",
+  "currencyCode": "TRY",
+  "transactionDescription": "payment transaction at Denesik, Renner and Kihn using card ending with ***6139 for EUR 493.82 in account ***59769469",
+  "transactionType": "withdrawal",
+  "amount": "143.19",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4476"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "61694909",
+  "bic": "BMCUAG9XZ8Z",
+  "currencyCode": "PLN",
+  "transactionDescription": "payment transaction at Bosco, Dare and Hamill using card ending with ***8126 for AWG 949.85 in account ***16958325",
+  "transactionType": "invoice",
+  "amount": "632.20",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4477"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "34948651",
+  "bic": "ACGTAG6O",
+  "currencyCode": "IRR",
+  "transactionDescription": "payment transaction at Hand and Sons using card ending with ***7013 for DZD 965.81 in account ***20170383",
+  "transactionType": "deposit",
+  "amount": "644.01",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4478"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "81108579",
+  "bic": "WYIVAMDSTEV",
+  "currencyCode": "SGD",
+  "transactionDescription": "payment transaction at Schowalter LLC using card ending with ***8348 for MNT 885.53 in account ***51646250",
+  "transactionType": "invoice",
+  "amount": "556.40",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4479"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "18123199",
+  "bic": "TKGVMM2Y213",
+  "currencyCode": "KZT",
+  "transactionDescription": "payment transaction at Fahey - Parisian using card ending with ***7154 for PGK 890.46 in account ***18066549",
+  "transactionType": "deposit",
+  "amount": "516.36",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc447a"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "66511889",
+  "bic": "ZYSDIEOQAMB",
+  "currencyCode": "DKK",
+  "transactionDescription": "payment transaction at Mertz Group using card ending with ***8929 for SGD 597.56 in account ***96084761",
+  "transactionType": "invoice",
+  "amount": "741.94",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc447b"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "48738850",
+  "bic": "CMZYMTOF",
+  "currencyCode": "SAR",
+  "transactionDescription": "deposit transaction at O'Conner - Dicki using card ending with ***0634 for GNF 875.14 in account ***68658096",
+  "transactionType": "payment",
+  "amount": "640.01",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc447c"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "73396138",
+  "bic": "IJOLNZJ8",
+  "currencyCode": "HKD",
+  "transactionDescription": "deposit transaction at Lang, Marquardt and Schiller using card ending with ***2691 for AFN 900.75 in account ***64290560",
+  "transactionType": "invoice",
+  "amount": "202.46",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc447d"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "88738035",
+  "bic": "VQQPBW8B",
+  "currencyCode": "JPY",
+  "transactionDescription": "invoice transaction at Zieme Group using card ending with ***9990 for XCD 713.93 in account ***43364206",
+  "transactionType": "deposit",
+  "amount": "371.15",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc447e"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "26969565",
+  "bic": "HYMTAFRGJTT",
+  "currencyCode": "DOP",
+  "transactionDescription": "deposit transaction at Howe - Rath using card ending with ***2723 for ZAR 759.83 in account ***49353061",
+  "transactionType": "payment",
+  "amount": "105.26",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc447f"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "16187106",
+  "bic": "YWDZNOLCXXX",
+  "currencyCode": "TRY",
+  "transactionDescription": "deposit transaction at White Group using card ending with ***3973 for SYP 515.32 in account ***80409824",
+  "transactionType": "invoice",
+  "amount": "947.17",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4480"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "59505735",
+  "bic": "MWGWGHY8",
+  "currencyCode": "MZN",
+  "transactionDescription": "deposit transaction at Schmidt, Sawayn and Kuvalis using card ending with ***2087 for XCD 533.65 in account ***57955329",
+  "transactionType": "withdrawal",
+  "amount": "28.24",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4481"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "94983227",
+  "bic": "ZENUVG97",
+  "currencyCode": "GBP",
+  "transactionDescription": "withdrawal transaction at Hirthe, Turner and Willms using card ending with ***5986 for HTG 431.02 in account ***96442402",
+  "transactionType": "invoice",
+  "amount": "723.06",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4482"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "57663720",
+  "bic": "XZYMMCEYXXX",
+  "currencyCode": "FKP",
+  "transactionDescription": "invoice transaction at Emmerich - Hyatt using card ending with ***4623 for SAR 819.36 in account ***80403051",
+  "transactionType": "deposit",
+  "amount": "395.35",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4483"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "97116551",
+  "bic": "EFGFKM1HXXX",
+  "currencyCode": "CHF",
+  "transactionDescription": "payment transaction at Kihn and Sons using card ending with ***7611 for XAF 679.62 in account ***81693749",
+  "transactionType": "withdrawal",
+  "amount": "978.27",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4484"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "68341598",
+  "bic": "YOQSREQCX8U",
+  "currencyCode": "ANG",
+  "transactionDescription": "payment transaction at Stroman Group using card ending with ***8085 for BSD 956.52 in account ***57907947",
+  "transactionType": "invoice",
+  "amount": "652.52",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4485"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "33991869",
+  "bic": "AJJJDKWA",
+  "currencyCode": "GHS",
+  "transactionDescription": "payment transaction at Reilly, Rosenbaum and Koepp using card ending with ***6325 for UAH 533.71 in account ***25461317",
+  "transactionType": "withdrawal",
+  "amount": "251.20",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4486"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "63920879",
+  "bic": "VOQQIE88XXX",
+  "currencyCode": "PLN",
+  "transactionDescription": "payment transaction at Feeney, Bernhard and Russel using card ending with ***4155 for SOS 94.95 in account ***95229637",
+  "transactionType": "withdrawal",
+  "amount": "524.19",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4487"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "64818460",
+  "bic": "OKRWBQP0JKD",
+  "currencyCode": "UZS",
+  "transactionDescription": "withdrawal transaction at Huel Group using card ending with ***3854 for BND 37.58 in account ***11193043",
+  "transactionType": "deposit",
+  "amount": "619.04",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4488"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "13901454",
+  "bic": "VGCMBEH7",
+  "currencyCode": "SHP",
+  "transactionDescription": "invoice transaction at Lubowitz - Koss using card ending with ***8684 for BND 525.71 in account ***36214736",
+  "transactionType": "invoice",
+  "amount": "980.34",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4489"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "29488867",
+  "bic": "XKPRPAYO",
+  "currencyCode": "CRC",
+  "transactionDescription": "invoice transaction at Hoppe, Wisozk and Dickinson using card ending with ***0027 for BOB 564.07 in account ***79069435",
+  "transactionType": "invoice",
+  "amount": "622.85",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc448a"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "44989554",
+  "bic": "NHOOJEM6",
+  "currencyCode": "MKD",
+  "transactionDescription": "deposit transaction at Corwin - Schuster using card ending with ***0955 for TOP 481.77 in account ***37024363",
+  "transactionType": "withdrawal",
+  "amount": "632.89",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc448b"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "09985714",
+  "bic": "RFAEYEV6XXX",
+  "currencyCode": "UZS",
+  "transactionDescription": "withdrawal transaction at Franey, Schmidt and Lebsack using card ending with ***2628 for KES 767.76 in account ***83439430",
+  "transactionType": "payment",
+  "amount": "220.82",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc448c"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "56701453",
+  "bic": "NIHEBRJO",
+  "currencyCode": "RUB",
+  "transactionDescription": "payment transaction at Stroman LLC using card ending with ***1273 for TJS 650.16 in account ***64282340",
+  "transactionType": "payment",
+  "amount": "581.41",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc448d"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "64680858",
+  "bic": "WBOSVUILLMB",
+  "currencyCode": "TJS",
+  "transactionDescription": "payment transaction at Bechtelar, Oberbrunner and Collier using card ending with ***9186 for BZD 175.33 in account ***13507279",
+  "transactionType": "deposit",
+  "amount": "509.14",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc448e"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "16589889",
+  "bic": "EHBTLR8P03E",
+  "currencyCode": "TWD",
+  "transactionDescription": "deposit transaction at Shields - MacGyver using card ending with ***5797 for BRL 447.51 in account ***61284079",
+  "transactionType": "withdrawal",
+  "amount": "576.98",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc448f"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "85622625",
+  "bic": "BZXETFIT",
+  "currencyCode": "HKD",
+  "transactionDescription": "deposit transaction at Wyman, Schmitt and Predovic using card ending with ***4521 for BAM 938.09 in account ***17225183",
+  "transactionType": "deposit",
+  "amount": "271.15",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4490"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "96479994",
+  "bic": "NARALIDA3CA",
+  "currencyCode": "DKK",
+  "transactionDescription": "invoice transaction at Nitzsche - Reynolds using card ending with ***8359 for DKK 600.97 in account ***61310091",
+  "transactionType": "withdrawal",
+  "amount": "445.05",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4491"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "17791041",
+  "bic": "IUGXKYMT",
+  "currencyCode": "SRD",
+  "transactionDescription": "invoice transaction at Mertz Inc using card ending with ***2819 for SCR 591.36 in account ***28567822",
+  "transactionType": "deposit",
+  "amount": "929.32",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4492"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "51186132",
+  "bic": "AYRYDJ7E",
+  "currencyCode": "PLN",
+  "transactionDescription": "deposit transaction at Hodkiewicz, Haag and Kassulke using card ending with ***3424 for KMF 102.75 in account ***57010442",
+  "transactionType": "payment",
+  "amount": "301.01",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4493"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "63561046",
+  "bic": "ZSIFHMUZXXX",
+  "currencyCode": "ANG",
+  "transactionDescription": "payment transaction at Fritsch, Murazik and Dibbert using card ending with ***0469 for PAB 132.90 in account ***22683692",
+  "transactionType": "withdrawal",
+  "amount": "314.65",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4494"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "45667989",
+  "bic": "CGHYAGSS",
+  "currencyCode": "GIP",
+  "transactionDescription": "invoice transaction at Lindgren Group using card ending with ***6116 for XOF 277.71 in account ***98239791",
+  "transactionType": "deposit",
+  "amount": "481.45",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4495"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "89381564",
+  "bic": "CHXLLRW7",
+  "currencyCode": "TZS",
+  "transactionDescription": "withdrawal transaction at Funk, McLaughlin and Wehner using card ending with ***8292 for AED 961.46 in account ***32527804",
+  "transactionType": "withdrawal",
+  "amount": "203.19",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4496"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "44146674",
+  "bic": "QEPYIRA074B",
+  "currencyCode": "NOK",
+  "transactionDescription": "deposit transaction at Miller Inc using card ending with ***6450 for GNF 604.16 in account ***65170979",
+  "transactionType": "withdrawal",
+  "amount": "19.61",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4497"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "51905346",
+  "bic": "CRFXJPCMXXX",
+  "currencyCode": "SDG",
+  "transactionDescription": "withdrawal transaction at Fisher LLC using card ending with ***4316 for TOP 203.56 in account ***45519014",
+  "transactionType": "payment",
+  "amount": "184.17",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4498"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "64517233",
+  "bic": "ZNYMALQO",
+  "currencyCode": "MUR",
+  "transactionDescription": "payment transaction at Hilll - Kuhn using card ending with ***5193 for OMR 29.96 in account ***34628500",
+  "transactionType": "payment",
+  "amount": "555.09",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4499"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "22517846",
+  "bic": "BGIZTC8C",
+  "currencyCode": "XAF",
+  "transactionDescription": "deposit transaction at Hirthe and Sons using card ending with ***2857 for MNT 705.58 in account ***84274994",
+  "transactionType": "payment",
+  "amount": "527.97",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc449a"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "00314887",
+  "bic": "LTYOUYLF35W",
+  "currencyCode": "FKP",
+  "transactionDescription": "withdrawal transaction at DuBuque LLC using card ending with ***2865 for SEK 543.16 in account ***36234335",
+  "transactionType": "invoice",
+  "amount": "809.22",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc449b"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "22367332",
+  "bic": "RESFADHEXXX",
+  "currencyCode": "FJD",
+  "transactionDescription": "invoice transaction at Turcotte - Batz using card ending with ***3477 for FKP 585.14 in account ***30204728",
+  "transactionType": "withdrawal",
+  "amount": "52.22",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc449c"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "49154937",
+  "bic": "LUTPMYQA",
+  "currencyCode": "USD",
+  "transactionDescription": "payment transaction at Rath, Legros and Haag using card ending with ***5072 for KES 796.75 in account ***59468187",
+  "transactionType": "withdrawal",
+  "amount": "526.91",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc449d"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "70809167",
+  "bic": "BTYSLUU4",
+  "currencyCode": "VUV",
+  "transactionDescription": "deposit transaction at Jaskolski, Hyatt and Windler using card ending with ***0286 for MGA 632.46 in account ***58800586",
+  "transactionType": "deposit",
+  "amount": "971.10",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc449e"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "65069382",
+  "bic": "NLXFMG7NXXX",
+  "currencyCode": "KGS",
+  "transactionDescription": "payment transaction at Marvin, Roberts and Little using card ending with ***3663 for MKD 976.94 in account ***82281312",
+  "transactionType": "withdrawal",
+  "amount": "971.22",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc449f"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "22964604",
+  "bic": "BTTEFOCEXXX",
+  "currencyCode": "BTN",
+  "transactionDescription": "payment transaction at Larson - Bogan using card ending with ***6570 for XPF 983.04 in account ***95139186",
+  "transactionType": "payment",
+  "amount": "905.81",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44a0"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "39712096",
+  "bic": "YQWYEE9Y",
+  "currencyCode": "VUV",
+  "transactionDescription": "deposit transaction at Schulist, Russel and Davis using card ending with ***5181 for QAR 604.71 in account ***18612893",
+  "transactionType": "deposit",
+  "amount": "608.24",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44a1"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "80248575",
+  "bic": "XXJTJMBUKIN",
+  "currencyCode": "TOP",
+  "transactionDescription": "withdrawal transaction at Kuhlman, Marks and Mraz using card ending with ***6160 for CHF 113.41 in account ***94807670",
+  "transactionType": "withdrawal",
+  "amount": "250.96",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44a2"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "42172907",
+  "bic": "EPEJMY00",
+  "currencyCode": "IQD",
+  "transactionDescription": "deposit transaction at Mraz - Waters using card ending with ***4216 for NZD 665.17 in account ***21856740",
+  "transactionType": "payment",
+  "amount": "606.04",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44a3"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "09020448",
+  "bic": "GKRBHKV4",
+  "currencyCode": "LYD",
+  "transactionDescription": "deposit transaction at Prosacco Group using card ending with ***5982 for PAB 201.39 in account ***05189365",
+  "transactionType": "payment",
+  "amount": "162.24",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44a4"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "10791429",
+  "bic": "AAPAPYAE",
+  "currencyCode": "GYD",
+  "transactionDescription": "withdrawal transaction at Rempel - Schoen using card ending with ***1073 for KPW 638.28 in account ***81680611",
+  "transactionType": "payment",
+  "amount": "208.09",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44a5"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "71414882",
+  "bic": "YZVBAR3E0T6",
+  "currencyCode": "KPW",
+  "transactionDescription": "withdrawal transaction at Champlin - Daniel using card ending with ***0105 for UYU 740.30 in account ***74987642",
+  "transactionType": "payment",
+  "amount": "234.90",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44a6"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "35709389",
+  "bic": "FKAPMRJ9Q38",
+  "currencyCode": "RSD",
+  "transactionDescription": "withdrawal transaction at Koelpin Group using card ending with ***8897 for NZD 486.42 in account ***16537717",
+  "transactionType": "deposit",
+  "amount": "155.53",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44a7"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "35343051",
+  "bic": "VRFFMPE3XCP",
+  "currencyCode": "INR",
+  "transactionDescription": "withdrawal transaction at Sipes Inc using card ending with ***5595 for NPR 145.50 in account ***12329891",
+  "transactionType": "deposit",
+  "amount": "552.14",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44a8"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "50363598",
+  "bic": "SQUMKHNC",
+  "currencyCode": "MZN",
+  "transactionDescription": "withdrawal transaction at Littel and Sons using card ending with ***7441 for AFN 363.07 in account ***52887312",
+  "transactionType": "withdrawal",
+  "amount": "408.18",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44a9"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "65061468",
+  "bic": "JQWWEG6Z",
+  "currencyCode": "RON",
+  "transactionDescription": "deposit transaction at Leuschke, Corwin and Maggio using card ending with ***2251 for HKD 569.79 in account ***62091972",
+  "transactionType": "invoice",
+  "amount": "458.12",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44aa"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "59613180",
+  "bic": "OLWDLTLSXXX",
+  "currencyCode": "COP",
+  "transactionDescription": "deposit transaction at Heller, Dibbert and Treutel using card ending with ***0547 for MNT 398.47 in account ***99002110",
+  "transactionType": "withdrawal",
+  "amount": "964.07",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44ab"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "95635967",
+  "bic": "WRDTMK97XXX",
+  "currencyCode": "TWD",
+  "transactionDescription": "withdrawal transaction at Ondricka Inc using card ending with ***3324 for LYD 277.22 in account ***60412349",
+  "transactionType": "invoice",
+  "amount": "207.40",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44ac"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "78280400",
+  "bic": "DMNTTVQACHE",
+  "currencyCode": "SZL",
+  "transactionDescription": "payment transaction at Flatley, Hammes and Parisian using card ending with ***0001 for SBD 923.65 in account ***23471289",
+  "transactionType": "payment",
+  "amount": "91.48",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44ad"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "02754002",
+  "bic": "JGHVBGPISUX",
+  "currencyCode": "KHR",
+  "transactionDescription": "withdrawal transaction at Medhurst Group using card ending with ***2013 for BSD 717.09 in account ***74781745",
+  "transactionType": "payment",
+  "amount": "793.69",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44ae"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "17069667",
+  "bic": "ZKODTGOF",
+  "currencyCode": "AZN",
+  "transactionDescription": "payment transaction at Walsh - Kiehn using card ending with ***6537 for NIO 513.49 in account ***37376519",
+  "transactionType": "withdrawal",
+  "amount": "86.54",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44af"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "23319468",
+  "bic": "VEVAAF89",
+  "currencyCode": "PLN",
+  "transactionDescription": "invoice transaction at Carter - Little using card ending with ***4679 for BOB 342.79 in account ***62441989",
+  "transactionType": "deposit",
+  "amount": "160.83",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44b0"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "87454661",
+  "bic": "IOPWHTINXXX",
+  "currencyCode": "TRY",
+  "transactionDescription": "invoice transaction at Nolan Group using card ending with ***6309 for USD 617.38 in account ***37754513",
+  "transactionType": "invoice",
+  "amount": "129.36",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44b1"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "39280927",
+  "bic": "NWRCSX6HXXX",
+  "currencyCode": "IRR",
+  "transactionDescription": "invoice transaction at Friesen - Considine using card ending with ***0490 for PLN 359.12 in account ***32415833",
+  "transactionType": "invoice",
+  "amount": "226.22",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44b2"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "99138994",
+  "bic": "QFTESLDE",
+  "currencyCode": "LSL",
+  "transactionDescription": "withdrawal transaction at Schumm - McLaughlin using card ending with ***7592 for LSL 655.34 in account ***15267275",
+  "transactionType": "payment",
+  "amount": "345.14",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44b3"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "12337413",
+  "bic": "OIRFCZSHZRB",
+  "currencyCode": "NIO",
+  "transactionDescription": "deposit transaction at Schumm - Bode using card ending with ***5902 for USD 981.02 in account ***40914906",
+  "transactionType": "deposit",
+  "amount": "239.58",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44b4"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "27712468",
+  "bic": "NZCDAMHPXXX",
+  "currencyCode": "LSL",
+  "transactionDescription": "withdrawal transaction at Price, Runolfsdottir and Parker using card ending with ***6973 for ARS 272.57 in account ***22638866",
+  "transactionType": "deposit",
+  "amount": "398.57",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44b5"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "29600152",
+  "bic": "TPWQMLW7XXX",
+  "currencyCode": "JMD",
+  "transactionDescription": "payment transaction at Nolan Group using card ending with ***8785 for MRU 453.57 in account ***70432177",
+  "transactionType": "withdrawal",
+  "amount": "544.88",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44b6"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "27262430",
+  "bic": "XHRRCX1H0QV",
+  "currencyCode": "XCD",
+  "transactionDescription": "payment transaction at Bins, Fisher and Pouros using card ending with ***2911 for UAH 94.32 in account ***29762808",
+  "transactionType": "payment",
+  "amount": "910.06",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44b7"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "90735951",
+  "bic": "CJPXUSI4XXX",
+  "currencyCode": "LYD",
+  "transactionDescription": "withdrawal transaction at Kozey, D'Amore and Wehner using card ending with ***0389 for AOA 101.64 in account ***29612005",
+  "transactionType": "payment",
+  "amount": "795.32",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44b8"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "21193197",
+  "bic": "XGWVCMX8",
+  "currencyCode": "HUF",
+  "transactionDescription": "deposit transaction at Waters - Ondricka using card ending with ***8752 for BMD 238.81 in account ***17512234",
+  "transactionType": "deposit",
+  "amount": "491.88",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44b9"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "74451549",
+  "bic": "DDTKSH7LXXX",
+  "currencyCode": "KRW",
+  "transactionDescription": "deposit transaction at Jacobs, Shields and Hoeger using card ending with ***0194 for AFN 594.94 in account ***53568835",
+  "transactionType": "deposit",
+  "amount": "598.50",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44ba"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "70930958",
+  "bic": "DFUTSLXX8DH",
+  "currencyCode": "SLE",
+  "transactionDescription": "invoice transaction at Orn, Kiehn and Medhurst using card ending with ***7632 for GTQ 25.54 in account ***17333336",
+  "transactionType": "invoice",
+  "amount": "657.17",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44bb"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "24823761",
+  "bic": "NOHJAEMP",
+  "currencyCode": "LKR",
+  "transactionDescription": "deposit transaction at Daugherty - Reynolds using card ending with ***2984 for KPW 88.23 in account ***45122037",
+  "transactionType": "invoice",
+  "amount": "272.77",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44bc"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "70413934",
+  "bic": "VNYVPW3LTJ1",
+  "currencyCode": "PEN",
+  "transactionDescription": "invoice transaction at Murphy, Haley and Grady using card ending with ***0248 for DJF 42.52 in account ***09639936",
+  "transactionType": "withdrawal",
+  "amount": "912.21",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44bd"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "18675614",
+  "bic": "RMFVFJ3SXZ6",
+  "currencyCode": "MVR",
+  "transactionDescription": "withdrawal transaction at Abshire Group using card ending with ***4027 for NZD 997.25 in account ***73190398",
+  "transactionType": "withdrawal",
+  "amount": "310.88",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44be"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "59379310",
+  "bic": "NRIHALQRDWK",
+  "currencyCode": "RUB",
+  "transactionDescription": "invoice transaction at Weissnat Inc using card ending with ***6135 for BMD 789.40 in account ***01336867",
+  "transactionType": "deposit",
+  "amount": "401.87",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44bf"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "73853705",
+  "bic": "HGQIER5NUTN",
+  "currencyCode": "SGD",
+  "transactionDescription": "payment transaction at Hackett - Block using card ending with ***8297 for SLE 823.73 in account ***52103832",
+  "transactionType": "withdrawal",
+  "amount": "380.36",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44c0"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "56025271",
+  "bic": "HPMTKW0ZZ9F",
+  "currencyCode": "HNL",
+  "transactionDescription": "invoice transaction at Emard - McGlynn using card ending with ***5947 for ZAR 816.72 in account ***88274613",
+  "transactionType": "payment",
+  "amount": "301.16",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44c1"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "10817909",
+  "bic": "OXQSET6YORO",
+  "currencyCode": "BOB",
+  "transactionDescription": "deposit transaction at Stehr and Sons using card ending with ***7767 for SCR 887.21 in account ***10750177",
+  "transactionType": "deposit",
+  "amount": "696.53",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44c2"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "24528773",
+  "bic": "WXEGUZFYANV",
+  "currencyCode": "ZWL",
+  "transactionDescription": "invoice transaction at Kassulke, Fay and Hickle using card ending with ***9299 for MUR 255.75 in account ***79942938",
+  "transactionType": "invoice",
+  "amount": "155.77",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44c3"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "50644808",
+  "bic": "YVVBTN3UXXX",
+  "currencyCode": "CNY",
+  "transactionDescription": "payment transaction at Kuphal - Johns using card ending with ***3664 for TRY 353.20 in account ***24884559",
+  "transactionType": "payment",
+  "amount": "167.10",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44c4"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "79273612",
+  "bic": "SVGDSNF0",
+  "currencyCode": "TOP",
+  "transactionDescription": "deposit transaction at Lynch and Sons using card ending with ***7444 for UAH 905.46 in account ***98417546",
+  "transactionType": "payment",
+  "amount": "923.81",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44c5"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "81492852",
+  "bic": "PTJQCK6FAI0",
+  "currencyCode": "SYP",
+  "transactionDescription": "withdrawal transaction at Waelchi Inc using card ending with ***8053 for GNF 225.14 in account ***22945724",
+  "transactionType": "deposit",
+  "amount": "75.23",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44c6"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "12314157",
+  "bic": "SDLDSHFI",
+  "currencyCode": "SDG",
+  "transactionDescription": "withdrawal transaction at Carroll - Stehr using card ending with ***8020 for NGN 140.97 in account ***99159367",
+  "transactionType": "deposit",
+  "amount": "490.74",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44c7"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "79557650",
+  "bic": "ZIICALYTZ9Q",
+  "currencyCode": "ZWL",
+  "transactionDescription": "deposit transaction at Berge, Thompson and McDermott using card ending with ***1308 for ETB 873.67 in account ***79275893",
+  "transactionType": "invoice",
+  "amount": "111.17",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44c8"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "81364363",
+  "bic": "AKBKGW4P",
+  "currencyCode": "MGA",
+  "transactionDescription": "deposit transaction at Torphy Group using card ending with ***8650 for SSP 989.27 in account ***37629024",
+  "transactionType": "withdrawal",
+  "amount": "352.74",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44c9"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "57637204",
+  "bic": "ZHOZMPUF",
+  "currencyCode": "MOP",
+  "transactionDescription": "withdrawal transaction at Cummings - Dicki using card ending with ***4211 for UAH 377.81 in account ***91351651",
+  "transactionType": "payment",
+  "amount": "344.19",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44ca"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "05506364",
+  "bic": "PGBQGAAT",
+  "currencyCode": "BGN",
+  "transactionDescription": "invoice transaction at Cronin Inc using card ending with ***9977 for MNT 101.46 in account ***87033974",
+  "transactionType": "invoice",
+  "amount": "872.70",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44cb"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "20373908",
+  "bic": "HRAMIQVOGCU",
+  "currencyCode": "GNF",
+  "transactionDescription": "invoice transaction at Stroman - Dickens using card ending with ***3159 for IDR 376.65 in account ***35705130",
+  "transactionType": "invoice",
+  "amount": "812.12",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44cc"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "18551924",
+  "bic": "NQEZLRLL",
+  "currencyCode": "AFN",
+  "transactionDescription": "payment transaction at Kassulke - Bahringer using card ending with ***2314 for XOF 575.46 in account ***32051315",
+  "transactionType": "withdrawal",
+  "amount": "195.96",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44cd"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "19743062",
+  "bic": "LXUWFJFE",
+  "currencyCode": "CUP",
+  "transactionDescription": "deposit transaction at Glover - Nienow using card ending with ***7619 for LAK 782.58 in account ***86768246",
+  "transactionType": "invoice",
+  "amount": "814.50",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44ce"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "98945928",
+  "bic": "GZUNXKTVXXX",
+  "currencyCode": "GHS",
+  "transactionDescription": "payment transaction at Heidenreich, Graham and Lind using card ending with ***4008 for BSD 561.49 in account ***80784180",
+  "transactionType": "withdrawal",
+  "amount": "462.34",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44cf"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "90070788",
+  "bic": "GVWMKYFO",
+  "currencyCode": "IRR",
+  "transactionDescription": "payment transaction at Cruickshank - Rempel using card ending with ***0766 for EGP 562.47 in account ***64937232",
+  "transactionType": "deposit",
+  "amount": "682.75",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44d0"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "72502219",
+  "bic": "FZUATR84",
+  "currencyCode": "SSP",
+  "transactionDescription": "payment transaction at Hammes, Franecki and Berge using card ending with ***5658 for RWF 626.52 in account ***40403322",
+  "transactionType": "deposit",
+  "amount": "563.34",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44d1"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "86364044",
+  "bic": "DFNPXKYHD0T",
+  "currencyCode": "SBD",
+  "transactionDescription": "invoice transaction at Grant and Sons using card ending with ***8994 for BND 394.79 in account ***53813341",
+  "transactionType": "invoice",
+  "amount": "507.56",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44d2"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "53558268",
+  "bic": "TEZILR73",
+  "currencyCode": "MUR",
+  "transactionDescription": "invoice transaction at Skiles, Cassin and Little using card ending with ***6858 for ZWL 776.08 in account ***05964896",
+  "transactionType": "deposit",
+  "amount": "206.48",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44d3"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "61582108",
+  "bic": "MRWWNITHO25",
+  "currencyCode": "SGD",
+  "transactionDescription": "invoice transaction at Bergnaum and Sons using card ending with ***1080 for BRL 135.59 in account ***61849838",
+  "transactionType": "payment",
+  "amount": "909.99",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44d4"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "45714809",
+  "bic": "IGLZCHOHQP1",
+  "currencyCode": "PEN",
+  "transactionDescription": "payment transaction at Bashirian and Sons using card ending with ***3700 for DJF 884.39 in account ***89782135",
+  "transactionType": "payment",
+  "amount": "707.56",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44d5"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "81008423",
+  "bic": "GSTUSVAJ",
+  "currencyCode": "MZN",
+  "transactionDescription": "deposit transaction at Bashirian Group using card ending with ***0814 for IDR 879.15 in account ***77499142",
+  "transactionType": "withdrawal",
+  "amount": "93.73",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44d6"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "36366548",
+  "bic": "BGZENLDD",
+  "currencyCode": "KGS",
+  "transactionDescription": "deposit transaction at Stoltenberg - Volkman using card ending with ***7273 for PGK 215.21 in account ***63538522",
+  "transactionType": "invoice",
+  "amount": "259.49",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44d7"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "77921714",
+  "bic": "CRAFKGL0KTL",
+  "currencyCode": "GMD",
+  "transactionDescription": "deposit transaction at Schaefer, Cormier and Terry using card ending with ***3724 for NPR 644.59 in account ***63891272",
+  "transactionType": "payment",
+  "amount": "47.61",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44d8"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "46802124",
+  "bic": "SOEHHRBHXXX",
+  "currencyCode": "WST",
+  "transactionDescription": "deposit transaction at Bogisich Group using card ending with ***9952 for XCD 890.06 in account ***12070415",
+  "transactionType": "deposit",
+  "amount": "236.66",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44d9"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "69195249",
+  "bic": "QMGULYED",
+  "currencyCode": "GIP",
+  "transactionDescription": "invoice transaction at O'Reilly, Johnson and Rolfson using card ending with ***4054 for THB 58.94 in account ***52461271",
+  "transactionType": "invoice",
+  "amount": "617.14",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44da"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "04592515",
+  "bic": "BCNXNGO5",
+  "currencyCode": "KRW",
+  "transactionDescription": "invoice transaction at Dietrich, Nikolaus and Pacocha using card ending with ***6231 for CAD 260.90 in account ***13946237",
+  "transactionType": "invoice",
+  "amount": "807.19",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44db"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "74792825",
+  "bic": "HKECCINNXXX",
+  "currencyCode": "TZS",
+  "transactionDescription": "invoice transaction at Carroll Inc using card ending with ***0638 for ZMW 945.57 in account ***34717959",
+  "transactionType": "withdrawal",
+  "amount": "568.58",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44dc"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "29200213",
+  "bic": "XSSSERT5VCS",
+  "currencyCode": "MOP",
+  "transactionDescription": "deposit transaction at Thiel, Klocko and McKenzie using card ending with ***8406 for VUV 39.44 in account ***83405623",
+  "transactionType": "deposit",
+  "amount": "478.95",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44dd"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "27740525",
+  "bic": "TUNPAQQF",
+  "currencyCode": "AMD",
+  "transactionDescription": "withdrawal transaction at Witting Inc using card ending with ***3509 for DJF 13.53 in account ***04801601",
+  "transactionType": "payment",
+  "amount": "712.74",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44de"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "15892630",
+  "bic": "QUNMMAVTPHX",
+  "currencyCode": "SLE",
+  "transactionDescription": "withdrawal transaction at Lockman, Pacocha and Bartoletti using card ending with ***1578 for BBD 2.58 in account ***70845543",
+  "transactionType": "invoice",
+  "amount": "881.40",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44df"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "50825505",
+  "bic": "JOHTCUGSXXX",
+  "currencyCode": "GMD",
+  "transactionDescription": "withdrawal transaction at Cole - Schroeder using card ending with ***2694 for ZWL 176.90 in account ***73049942",
+  "transactionType": "withdrawal",
+  "amount": "165.64",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44e0"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "22250232",
+  "bic": "XXCUBJ3PXXX",
+  "currencyCode": "STN",
+  "transactionDescription": "deposit transaction at Reichel and Sons using card ending with ***5801 for UZS 97.00 in account ***86813720",
+  "transactionType": "invoice",
+  "amount": "877.47",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44e1"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "40036855",
+  "bic": "GYUPEHF0",
+  "currencyCode": "PGK",
+  "transactionDescription": "deposit transaction at Zemlak, Franecki and O'Kon using card ending with ***0296 for USD 686.94 in account ***76806278",
+  "transactionType": "withdrawal",
+  "amount": "734.74",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44e2"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "10205180",
+  "bic": "BCSJROWRO35",
+  "currencyCode": "AWG",
+  "transactionDescription": "payment transaction at Ankunding - Bashirian using card ending with ***1526 for ANG 460.48 in account ***27253702",
+  "transactionType": "withdrawal",
+  "amount": "744.61",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44e3"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "55774551",
+  "bic": "XMHDER5TGKX",
+  "currencyCode": "HKD",
+  "transactionDescription": "withdrawal transaction at Mohr LLC using card ending with ***6977 for SOS 77.06 in account ***08404489",
+  "transactionType": "payment",
+  "amount": "263.18",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44e4"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "10719232",
+  "bic": "TEAZHMKJXXX",
+  "currencyCode": "NOK",
+  "transactionDescription": "withdrawal transaction at Bednar - Koelpin using card ending with ***4625 for LYD 295.36 in account ***51283503",
+  "transactionType": "withdrawal",
+  "amount": "156.36",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44e5"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "66184460",
+  "bic": "YGVZGUZB",
+  "currencyCode": "AMD",
+  "transactionDescription": "invoice transaction at Hirthe LLC using card ending with ***6293 for AOA 722.54 in account ***30229957",
+  "transactionType": "deposit",
+  "amount": "88.22",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44e6"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "16267978",
+  "bic": "TYFMBWM7XXX",
+  "currencyCode": "CUP",
+  "transactionDescription": "payment transaction at Walker - Ondricka using card ending with ***5520 for GYD 363.16 in account ***39164316",
+  "transactionType": "payment",
+  "amount": "265.11",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44e7"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "06562741",
+  "bic": "DQHSAD3C",
+  "currencyCode": "KYD",
+  "transactionDescription": "withdrawal transaction at Stracke - Oberbrunner using card ending with ***4203 for HTG 981.02 in account ***91511206",
+  "transactionType": "invoice",
+  "amount": "713.69",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44e8"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "76328661",
+  "bic": "YVHQCRF8",
+  "currencyCode": "ANG",
+  "transactionDescription": "withdrawal transaction at Friesen - Maggio using card ending with ***4663 for ARS 554.88 in account ***21167078",
+  "transactionType": "payment",
+  "amount": "216.14",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44e9"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "26808887",
+  "bic": "SXJUMSNJXXX",
+  "currencyCode": "CZK",
+  "transactionDescription": "invoice transaction at Kassulke, Bosco and Hane using card ending with ***4370 for SRD 363.43 in account ***73380859",
+  "transactionType": "deposit",
+  "amount": "328.20",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44ea"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "60612785",
+  "bic": "STQDRE3KXXX",
+  "currencyCode": "KWD",
+  "transactionDescription": "payment transaction at Kihn, Mayert and Satterfield using card ending with ***7378 for GHS 962.18 in account ***59126457",
+  "transactionType": "withdrawal",
+  "amount": "894.87",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44eb"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "70758038",
+  "bic": "KNDQMSWH",
+  "currencyCode": "MYR",
+  "transactionDescription": "invoice transaction at Sipes, Reynolds and Rohan using card ending with ***4457 for VUV 903.20 in account ***62716033",
+  "transactionType": "deposit",
+  "amount": "277.78",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44ec"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "21883734",
+  "bic": "ECWPNAIZ",
+  "currencyCode": "CZK",
+  "transactionDescription": "deposit transaction at Frami and Sons using card ending with ***0170 for CAD 480.22 in account ***85445905",
+  "transactionType": "payment",
+  "amount": "858.04",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44ed"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "82781810",
+  "bic": "VLXHLCINR3O",
+  "currencyCode": "BHD",
+  "transactionDescription": "withdrawal transaction at Marvin, Pouros and Marvin using card ending with ***6802 for RSD 757.23 in account ***88276838",
+  "transactionType": "withdrawal",
+  "amount": "417.51",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44ee"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "68727895",
+  "bic": "DOWMNEU1",
+  "currencyCode": "CZK",
+  "transactionDescription": "withdrawal transaction at Hahn, Dicki and McDermott using card ending with ***5763 for KHR 342.99 in account ***83524348",
+  "transactionType": "deposit",
+  "amount": "738.50",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44ef"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "70552677",
+  "bic": "QZEOREIJ",
+  "currencyCode": "RUB",
+  "transactionDescription": "deposit transaction at Bailey - Klein using card ending with ***2165 for WST 101.48 in account ***93742466",
+  "transactionType": "deposit",
+  "amount": "187.59",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44f0"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "11874805",
+  "bic": "BWLDSVO6XXX",
+  "currencyCode": "AOA",
+  "transactionDescription": "payment transaction at Torphy, Maggio and Pollich using card ending with ***0794 for MRU 524.88 in account ***51789708",
+  "transactionType": "withdrawal",
+  "amount": "142.15",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44f1"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "24703093",
+  "bic": "XVZVRUH0XXX",
+  "currencyCode": "SBD",
+  "transactionDescription": "withdrawal transaction at Reilly Inc using card ending with ***8031 for XPF 687.51 in account ***57034718",
+  "transactionType": "withdrawal",
+  "amount": "130.35",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44f2"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "03384223",
+  "bic": "LITUMVWT",
+  "currencyCode": "LYD",
+  "transactionDescription": "invoice transaction at Dare - Bosco using card ending with ***2298 for CUP 245.94 in account ***76140038",
+  "transactionType": "invoice",
+  "amount": "67.77",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44f3"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "65997539",
+  "bic": "HPHTNACCXXX",
+  "currencyCode": "GMD",
+  "transactionDescription": "payment transaction at Barton - Stehr using card ending with ***9635 for BTN 922.05 in account ***87474765",
+  "transactionType": "deposit",
+  "amount": "505.30",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44f4"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "66355755",
+  "bic": "VBWHBJJ9108",
+  "currencyCode": "KMF",
+  "transactionDescription": "payment transaction at Block - McLaughlin using card ending with ***1677 for KHR 800.17 in account ***22688507",
+  "transactionType": "payment",
+  "amount": "208.62",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44f5"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "28710721",
+  "bic": "BYRYALW1",
+  "currencyCode": "AUD",
+  "transactionDescription": "deposit transaction at Konopelski, Bernhard and Rosenbaum using card ending with ***9952 for CLP 792.38 in account ***57087301",
+  "transactionType": "invoice",
+  "amount": "796.70",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44f6"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "59490609",
+  "bic": "GHKMIMX10A2",
+  "currencyCode": "TOP",
+  "transactionDescription": "withdrawal transaction at Schowalter Group using card ending with ***2896 for AOA 747.68 in account ***71168324",
+  "transactionType": "deposit",
+  "amount": "225.38",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44f7"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "92454474",
+  "bic": "PNWVTOOINPW",
+  "currencyCode": "WST",
+  "transactionDescription": "invoice transaction at Satterfield, Roberts and Veum using card ending with ***2334 for MNT 647.68 in account ***31437313",
+  "transactionType": "invoice",
+  "amount": "81.42",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44f8"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "18878419",
+  "bic": "GBBHBJY7JS8",
+  "currencyCode": "MVR",
+  "transactionDescription": "invoice transaction at Altenwerth - Hoppe using card ending with ***7993 for EUR 551.57 in account ***69763744",
+  "transactionType": "payment",
+  "amount": "748.63",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44f9"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "11837293",
+  "bic": "DHCKTZJCK3J",
+  "currencyCode": "AFN",
+  "transactionDescription": "withdrawal transaction at Rogahn, Frami and Harris using card ending with ***7850 for MDL 574.89 in account ***93535316",
+  "transactionType": "invoice",
+  "amount": "234.41",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44fa"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "24220230",
+  "bic": "JWRSMSL1XXX",
+  "currencyCode": "ANG",
+  "transactionDescription": "invoice transaction at Powlowski - Kiehn using card ending with ***5613 for ISK 275.52 in account ***51619321",
+  "transactionType": "payment",
+  "amount": "505.69",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44fb"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "64897353",
+  "bic": "LLBJHUUM",
+  "currencyCode": "SAR",
+  "transactionDescription": "payment transaction at Swift - Ward using card ending with ***6054 for NZD 871.88 in account ***04921444",
+  "transactionType": "withdrawal",
+  "amount": "511.35",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44fc"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "05235957",
+  "bic": "XALSMQDE",
+  "currencyCode": "GIP",
+  "transactionDescription": "withdrawal transaction at Leffler Inc using card ending with ***1329 for LRD 776.95 in account ***09459685",
+  "transactionType": "deposit",
+  "amount": "927.11",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44fd"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "12914306",
+  "bic": "OZBVTDHH",
+  "currencyCode": "ZAR",
+  "transactionDescription": "invoice transaction at Dibbert Inc using card ending with ***0757 for KMF 941.94 in account ***06060409",
+  "transactionType": "deposit",
+  "amount": "339.77",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44fe"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "54495048",
+  "bic": "PTWKAW73V2K",
+  "currencyCode": "BOB",
+  "transactionDescription": "payment transaction at Ankunding LLC using card ending with ***6188 for ZWL 170.60 in account ***43364323",
+  "transactionType": "deposit",
+  "amount": "346.95",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc44ff"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "96566722",
+  "bic": "SNUXMF6G",
+  "currencyCode": "AED",
+  "transactionDescription": "deposit transaction at Bayer - Cassin using card ending with ***4066 for CVE 701.86 in account ***32429586",
+  "transactionType": "invoice",
+  "amount": "931.01",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4500"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "07324861",
+  "bic": "XVIYFKKLXXX",
+  "currencyCode": "AZN",
+  "transactionDescription": "deposit transaction at Toy, Homenick and Heaney using card ending with ***7373 for RON 185.03 in account ***59476164",
+  "transactionType": "deposit",
+  "amount": "391.31",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4501"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "09383788",
+  "bic": "AFEIGNGQZ0Q",
+  "currencyCode": "KZT",
+  "transactionDescription": "withdrawal transaction at Waelchi LLC using card ending with ***3467 for AED 570.13 in account ***15263547",
+  "transactionType": "invoice",
+  "amount": "681.80",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4502"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "40155964",
+  "bic": "GRUDMUP0",
+  "currencyCode": "MGA",
+  "transactionDescription": "invoice transaction at Kuhn - Miller using card ending with ***3767 for FKP 260.52 in account ***42621744",
+  "transactionType": "payment",
+  "amount": "496.07",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4503"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "00082909",
+  "bic": "YHDITME5XXX",
+  "currencyCode": "HUF",
+  "transactionDescription": "withdrawal transaction at Senger - Goyette using card ending with ***6345 for GYD 78.51 in account ***53051172",
+  "transactionType": "invoice",
+  "amount": "312.78",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4504"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "01842345",
+  "bic": "THTDJMW0XXX",
+  "currencyCode": "HTG",
+  "transactionDescription": "withdrawal transaction at Bosco - Abbott using card ending with ***1427 for AUD 306.54 in account ***13469840",
+  "transactionType": "payment",
+  "amount": "633.88",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4505"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "39513703",
+  "bic": "ZNJMXKYUXXX",
+  "currencyCode": "MYR",
+  "transactionDescription": "withdrawal transaction at Howe Inc using card ending with ***1017 for CDF 73.95 in account ***47606242",
+  "transactionType": "deposit",
+  "amount": "564.61",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4506"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "51826818",
+  "bic": "UTQNDJKTOL2",
+  "currencyCode": "ISK",
+  "transactionDescription": "invoice transaction at Beatty - Medhurst using card ending with ***2450 for TRY 976.79 in account ***38136569",
+  "transactionType": "payment",
+  "amount": "397.96",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4507"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "91077475",
+  "bic": "LEOPMHHPXXX",
+  "currencyCode": "KWD",
+  "transactionDescription": "deposit transaction at Gottlieb and Sons using card ending with ***0917 for RUB 272.16 in account ***04512984",
+  "transactionType": "payment",
+  "amount": "807.82",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4508"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "55253362",
+  "bic": "LDFYBBPFXXX",
+  "currencyCode": "BMD",
+  "transactionDescription": "withdrawal transaction at Schneider, Gusikowski and Mante using card ending with ***4717 for PKR 188.03 in account ***87200822",
+  "transactionType": "payment",
+  "amount": "496.65",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4509"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "38089373",
+  "bic": "ATOTCCM4XXX",
+  "currencyCode": "AWG",
+  "transactionDescription": "payment transaction at Gusikowski Inc using card ending with ***1009 for XPF 658.31 in account ***53009098",
+  "transactionType": "invoice",
+  "amount": "422.78",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc450a"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "13156749",
+  "bic": "SKXBAZ9EXXX",
+  "currencyCode": "BRL",
+  "transactionDescription": "withdrawal transaction at Runte - Franey using card ending with ***1055 for BWP 559.00 in account ***11431559",
+  "transactionType": "withdrawal",
+  "amount": "550.09",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc450b"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "96816674",
+  "bic": "NZRUCMAC",
+  "currencyCode": "BIF",
+  "transactionDescription": "withdrawal transaction at Morar, Rempel and Grant using card ending with ***2582 for JOD 572.39 in account ***73182638",
+  "transactionType": "payment",
+  "amount": "154.24",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc450c"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "11570858",
+  "bic": "CIRFSN0JXXX",
+  "currencyCode": "KYD",
+  "transactionDescription": "invoice transaction at Hayes - Langworth using card ending with ***4271 for OMR 875.88 in account ***00289983",
+  "transactionType": "withdrawal",
+  "amount": "498.63",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc450d"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "64826282",
+  "bic": "BMLRTVYIJI8",
+  "currencyCode": "WST",
+  "transactionDescription": "deposit transaction at Cassin, Wyman and Emard using card ending with ***7889 for MAD 17.76 in account ***54935566",
+  "transactionType": "invoice",
+  "amount": "396.00",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc450e"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "19550780",
+  "bic": "DCIOTC4C",
+  "currencyCode": "BOB",
+  "transactionDescription": "deposit transaction at Frami Group using card ending with ***9695 for SHP 255.22 in account ***85399137",
+  "transactionType": "deposit",
+  "amount": "872.19",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc450f"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "62281559",
+  "bic": "AVDNUGA7XXX",
+  "currencyCode": "BTN",
+  "transactionDescription": "withdrawal transaction at McDermott Group using card ending with ***2827 for LYD 226.51 in account ***83680210",
+  "transactionType": "withdrawal",
+  "amount": "207.28",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4510"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "08385002",
+  "bic": "KTEOUAA6Q4Y",
+  "currencyCode": "DJF",
+  "transactionDescription": "withdrawal transaction at Schultz - O'Conner using card ending with ***4588 for SGD 595.44 in account ***93317297",
+  "transactionType": "invoice",
+  "amount": "207.99",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4511"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "99027411",
+  "bic": "WLIXTV37",
+  "currencyCode": "BHD",
+  "transactionDescription": "withdrawal transaction at Pollich and Sons using card ending with ***9268 for HKD 291.98 in account ***02354577",
+  "transactionType": "invoice",
+  "amount": "470.31",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4512"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "10129585",
+  "bic": "LZWPPRX4",
+  "currencyCode": "FKP",
+  "transactionDescription": "deposit transaction at Lakin Group using card ending with ***3780 for JOD 952.80 in account ***90114484",
+  "transactionType": "deposit",
+  "amount": "120.11",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4513"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "42390488",
+  "bic": "WICAGQWH",
+  "currencyCode": "PEN",
+  "transactionDescription": "invoice transaction at Wunsch, Feil and Hauck using card ending with ***7788 for TTD 281.25 in account ***81469551",
+  "transactionType": "deposit",
+  "amount": "742.17",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4514"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "34610058",
+  "bic": "WIGTPMFL",
+  "currencyCode": "JPY",
+  "transactionDescription": "withdrawal transaction at Towne LLC using card ending with ***3984 for MKD 986.99 in account ***17530253",
+  "transactionType": "invoice",
+  "amount": "404.67",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4515"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "48708709",
+  "bic": "BLDLETK5XXX",
+  "currencyCode": "SAR",
+  "transactionDescription": "withdrawal transaction at White, Wunsch and Franecki using card ending with ***4587 for IDR 880.63 in account ***27199509",
+  "transactionType": "invoice",
+  "amount": "654.69",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4516"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "11057465",
+  "bic": "FCYRKHQUXXX",
+  "currencyCode": "XAF",
+  "transactionDescription": "payment transaction at Jakubowski - Witting using card ending with ***8154 for USD 574.83 in account ***78507080",
+  "transactionType": "deposit",
+  "amount": "759.56",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4517"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "58908114",
+  "bic": "CLSHWSDHY44",
+  "currencyCode": "MNT",
+  "transactionDescription": "payment transaction at McCullough LLC using card ending with ***7955 for LSL 905.17 in account ***44929944",
+  "transactionType": "withdrawal",
+  "amount": "520.67",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4518"
+  },
+  "accountName": "Checking Account",
+  "accountNumber": "74817332",
+  "bic": "RNLBMRUU",
+  "currencyCode": "MGA",
+  "transactionDescription": "invoice transaction at McDermott - Cormier using card ending with ***4049 for BAM 603.48 in account ***45492786",
+  "transactionType": "payment",
+  "amount": "404.55",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4519"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "93641503",
+  "bic": "OGXQPSC7",
+  "currencyCode": "RON",
+  "transactionDescription": "invoice transaction at Schinner - Goyette using card ending with ***7134 for NGN 485.93 in account ***65189231",
+  "transactionType": "payment",
+  "amount": "854.36",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc451a"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "06491631",
+  "bic": "SJKJGFNSXXX",
+  "currencyCode": "SRD",
+  "transactionDescription": "invoice transaction at Bartell, Doyle and Pfannerstill using card ending with ***5371 for LYD 20.31 in account ***20968854",
+  "transactionType": "payment",
+  "amount": "189.91",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc451b"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "19983478",
+  "bic": "FBOMGEP4",
+  "currencyCode": "CUP",
+  "transactionDescription": "deposit transaction at Wehner, O'Reilly and Dietrich using card ending with ***6692 for MGA 525.47 in account ***11024447",
+  "transactionType": "payment",
+  "amount": "901.07",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc451c"
+  },
+  "accountName": "Investment Account",
+  "accountNumber": "49781719",
+  "bic": "CTUGCRT8S3A",
+  "currencyCode": "LYD",
+  "transactionDescription": "invoice transaction at Dickens LLC using card ending with ***3729 for TMT 663.17 in account ***84003561",
+  "transactionType": "deposit",
+  "amount": "802.39",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc451d"
+  },
+  "accountName": "Credit Card Account",
+  "accountNumber": "57227631",
+  "bic": "WUXCVEI7",
+  "currencyCode": "BIF",
+  "transactionDescription": "withdrawal transaction at Reinger - Halvorson using card ending with ***9670 for GMD 867.00 in account ***54870223",
+  "transactionType": "payment",
+  "amount": "763.78",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc451e"
+  },
+  "accountName": "Personal Loan Account",
+  "accountNumber": "88499653",
+  "bic": "KLWESGQAW7Q",
+  "currencyCode": "TND",
+  "transactionDescription": "deposit transaction at Mraz, Heathcote and Bode using card ending with ***4008 for CLP 340.23 in account ***72518755",
+  "transactionType": "invoice",
+  "amount": "848.56",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc451f"
+  },
+  "accountName": "Home Loan Account",
+  "accountNumber": "45617562",
+  "bic": "OODOCM5RXXX",
+  "currencyCode": "BAM",
+  "transactionDescription": "payment transaction at Keeling - Thiel using card ending with ***1173 for MNT 113.96 in account ***68914294",
+  "transactionType": "deposit",
+  "amount": "665.26",
+  "credit": true,
+  "date": {
+    "$date": "2024-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4520"
+  },
+  "accountName": "Savings Account",
+  "accountNumber": "34243559",
+  "bic": "DIPJTLP6",
+  "currencyCode": "GHS",
+  "transactionDescription": "withdrawal transaction at Gerlach - Ziemann using card ending with ***2668 for TRY 31.66 in account ***01772509",
+  "transactionType": "invoice",
+  "amount": "495.63",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4521"
+  },
+  "accountName": "Auto Loan Account",
+  "accountNumber": "35185377",
+  "bic": "JDSABSHX",
+  "currencyCode": "CNY",
+  "transactionDescription": "withdrawal transaction at Rogahn - Mraz using card ending with ***8476 for UZS 199.67 in account ***18300119",
+  "transactionType": "withdrawal",
+  "amount": "900.38",
+  "date": "Thu Aug 15 2024 05:58:39 GMT+0800 (Malaysia Time)"
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4522"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "91904698",
+  "bic": "PBLOWFB3XXX",
+  "currencyCode": "MDL",
+  "transactionDescription": "withdrawal transaction at Kub, Harber and Marks using card ending with ***7942 for TRY 876.08 in account ***17506833",
+  "transactionType": "payment",
+  "amount": "335.74",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b80aa86cd3c1dbf0bc4523"
+  },
+  "accountName": "Money Market Account",
+  "accountNumber": "09256082",
+  "bic": "CJFDMZSHXXX",
+  "currencyCode": "BBD",
+  "transactionDescription": "payment transaction at Parisian, Stroman and Toy using card ending with ***7856 for SRD 288.78 in account ***64903916",
+  "transactionType": "invoice",
+  "amount": "908.17",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  }
+}]
